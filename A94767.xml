@@ -1,0 +1,338 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Obedience perpetually due to kings, because the kingly power is inseparable from the one kings person. Delivered in a sermon to Mr. Peter Gunning's congregation in Exeter Chappel, near the Savoy, on the appointed Thanksgiving-day, June 28. 1660. By William Towers, Batchelor in Divinity, and curate at Upton near Northampton.</title>
+            <author>Towers, William, 1617?-1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94767</idno>
+            <idno type="STC">Wing T1960</idno>
+            <idno type="STC">Thomason E1040_6</idno>
+            <idno type="STC">ESTC R207897</idno>
+            <idno type="EEBO-CITATION">99866916</idno>
+            <idno type="PROQUEST">99866916</idno>
+            <idno type="VID">119204</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94767)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119204)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 154:E1040[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Obedience perpetually due to kings, because the kingly power is inseparable from the one kings person. Delivered in a sermon to Mr. Peter Gunning's congregation in Exeter Chappel, near the Savoy, on the appointed Thanksgiving-day, June 28. 1660. By William Towers, Batchelor in Divinity, and curate at Upton near Northampton.</title>
+                  <author>Towers, William, 1617?-1666.</author>
+               </titleStmt>
+               <extent>[4], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by R.D. for Thomas Rooks, and are to be sold at his shop at the sign of the Holy Lamb at the east end of S. Paul's,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug. 18".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119204:1" rendition="simple:additions"/>
+            <p>OBEDIENCE Perpetually due to KINGS, Becauſe the KINGLY POWER Is Inſeperable from the ONE King's Perſon.</p>
+            <p>Delivered in a SERMON to Mr. <hi>PETER G<g ref="char:V">Ʋ</g>NNING'S Congregation</hi> in <hi>Exeter Chappel,</hi> near the <hi>Savoy,</hi> On the appointed Thankſgiving-day, <hi>June</hi> 28. 1660.</p>
+            <p>By <hi>WILLIAM TOWERS,</hi> Batchelor in Divinity, and Curate at <hi>
+                  <g ref="char:V">Ʋ</g>pton</hi> near <hi>Northampton.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. D.</hi> for <hi>Thomas Rooks,</hi> and are to be ſold at his Shop at the ſign of the <hi>Holy Lamb</hi> at the Eaſt end of S. <hi>Paul's.</hi> 1660.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:119204:2"/>
+            <pb facs="tcp:119204:2"/>
+            <head>TO THE KING'S MOST EXCELLENT MAJESTY.</head>
+            <opener>
+               <salute>Moſt dreadly lov'd Sovereign,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am ſtill upon the part of a <hi>Divine Adventurer,</hi> when I thought I ſhould have been <hi>ſecur'd</hi> at the <hi>In<g ref="char:EOLhyphen"/>ſuring Office</hi> by the Advantage of <hi>Leiſure:</hi> In this I have only told the Subjects of their <hi>Dutie,</hi> and had not <hi>Time</hi> to inform them of the ſucceſſe and Bleſſedneſſe of that <hi>Loyaltie,</hi> which would have <hi>brib'd</hi> them into an obedience to your Sacred Ma<g ref="char:EOLhyphen"/>jeſty, and a thankefulneſſe (at leaſt a pardon) for theſe Allegiant Instructions. I have <hi>there<g ref="char:EOLhyphen"/>fore</hi> onely told them of the former, becauſe in the <hi>purſuit</hi> of <hi>Buſineſſe,</hi> and <hi>flight</hi> of <hi>Time,</hi> I was ſo <hi>ſuddenly</hi> engag'd upon the <hi>Vocal delivery</hi> of this, immediately after the <hi>forming</hi> of it by a <hi>Night-pen,</hi> that nothing but the zealous Vocal<g ref="char:EOLhyphen"/>neſſe could have <hi>held my eyes waking;</hi> Ingag'd upon it by the irreſiſtible Importunity of a <hi>Second Hammond,</hi>
+               <note place="margin">Mr. <hi>T. Pierce.</hi>
+               </note> ſo I call him for his <hi>Early</hi> and emi<g ref="char:EOLhyphen"/>nently-<hi>Learned</hi> Love and Truth to God's <hi>King</hi>
+               <pb facs="tcp:119204:3"/>and <hi>Church;</hi> for both of which, and for one Reaſon more, he is the Deſire of our eyes, becauſe His Ripeneſſe having, long ſince, anticipated His Years, He, in ſome meaſure, reſembles that King, whom, during all His <hi>Exile,</hi> he hath ſo <hi>Induſtri<g ref="char:EOLhyphen"/>ouſly</hi> honoured, (ſo <hi>wiſely</hi> and <hi>beneficially</hi> to the King's Liege People, to the very <hi>making</hi> of them Liege People to the King) as if preſent amongst us; ſince that Heathen Complement,
+<q>Caeſaribus virtus contigit ante Diem,</q> hath been a Chriſtian ſober Character more of your Royal Father, and of his Royal Son, than of all the Princes in Europe before you.</p>
+            <p>Moſt Royal Sir, Though moſt of your Pulpit-Subjects are abler, yet, every one of them (my very <hi>Fathers</hi> too) muſt pardon me, that I am not able to yield to <hi>any,</hi> in a <hi>zeal</hi> and <hi>Duty</hi> to my <hi>King,</hi> to the very laying downe of my life at His Feet, and for His Service; no, not to thoſe to whom, under my King, I vehemently deſire to ſwear a <hi>Canonical Obedience;</hi> becauſe then I muſt take two Oaths more, thoſe of <hi>Allegiance</hi> and <hi>Supremacy.</hi>
+            </p>
+            <p>
+               <hi>Adeo &amp; tenuis Animas ferit aemula Virtus.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Your Majeſties moſt bounden Subject by all the Ties of Religion,</hi> William Towers.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:119204:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Pſal. 21. v. 1. former part.</hi>
+                  </bibl>
+                  <p>The King ſhall joy in thy ſtrength, O Lord.</p>
+               </q>
+            </epigraph>
+            <p>'<seg rend="decorInit">T</seg>Is a Day of joy; of joy in the Lord; in the Lord for the King; we have <hi>It</hi> and <hi>Them</hi> in the Text: 'Tis an Hebrew Text; and, as in ſuch Books, we muſt begin at the end; at <hi>O Lord,</hi> before we come to <hi>The King;</hi> 'tis He that hath help'd us to Him: Without <hi>God</hi> it were above the ſtrength of <hi>Man</hi> to obtain, the wiſdom of Man to execute an office of ſuch difficulty, ſuch oppoſition; <hi>Nihil difficilius, quàm imp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rare:</hi> when Hell and enmity trample <hi>down</hi> a Throne, 'tis hard to get <hi>up</hi> upon it, <hi>quàm bene Imperare,</hi> hard to rule well, though there be a moſt towardly, tractable, and loyal people; a perſecuted <hi>David,</hi> (though ſtrong enough to bend a bow of ſteel, <hi>Pſal.</hi> 18.34.) will not yet truſt in his bow, neither ſhall his Sword ſave him, <hi>Pſal.</hi> 44.6. Both his own hands are two feeble, the Sword in his <hi>Right,</hi> and the Bow in his <hi>Left,</hi> too weak; both Gods hands are not too ſtrong; to them, to both of them he flies; <hi>Thou,</hi> O God, <hi>haſt a mighty arm, ſtrong is thy hand, and high is thy right hand, Pſal.</hi> 89.13. not only the <hi>Hand</hi> and the <hi>Arm</hi> of God, (<hi>Immortalia mortaliſer</hi> Lucr. <hi>mone notantes,</hi>) but, <hi>both my hands</hi> (in the <hi>Chaldee</hi>) ſhall be ready for his help; ſuch a humane impaſſibility to recover, did we lie and groan under, that we are driven to finde out ſuch a <hi>Mighty</hi> Text, ſuch a powerfull <hi>two-handed</hi> God to ſave us ſo well, and gratefully on <hi>David</hi>'s part (and on ours too) might that very God, who was his ſtrength, be alſo
+<pb n="2" facs="tcp:119204:4"/>his ſong, <hi>Pſal.</hi> 118.14. ſo joyfull a ſong, and ſo like the ever-beginning, becauſe endleſſe eternity, that this very day, we do but <hi>continue to begin it.</hi>
+            </p>
+            <p>What ſhall we do? the place we are in requires Method, that ſubject we handle does almoſt preclude it; and yet, are there not <hi>Pulpit</hi> as well as <hi>ſtreet-Raptures?</hi> is there not, ſometimes, a commendable Immethodicall <hi>ſtile,</hi> as well as, alwayes, a lawfull <hi>Immethodicall extaſie?</hi> and yet as we have a <hi>long little</hi> time (for, <hi>pleaſant</hi> dayes are ſhort as <hi>December,</hi> even then whilſt they are long as <hi>June</hi>) joy'd at <hi>all adventure,</hi> without the <hi>leiſure</hi> of ſtrict <hi>conſult a<g ref="char:EOLhyphen"/>tion,</hi> without the diſcreſſion of confining <hi>order</hi> (for, there is nothing which Philoſophy treates of more unbounded and irregular, more dilated and unphiloſophicall than exceſſe of joy) rather than quite faile make we ſome pre<g ref="char:EOLhyphen"/>tence to the uſefulneſſe of diviſion and parts: ſuch a divi<g ref="char:EOLhyphen"/>ſion as this, ſuch parts as theſe.</p>
+            <p>Be the diviſion this, <hi>O Lord the King,</hi> the firſt General; <hi>ſhall joy in thy ſtrength,</hi> the ſecond.</p>
+            <p>Be the parts, theſe. In the firſt Generall, humbly com<g ref="char:EOLhyphen"/>pare we in one word, the <hi>late</hi> low ſtate of <hi>our King,</hi> with that of <hi>his Lord.</hi>
+            </p>
+            <p>In a ſecond, conſider we that the <hi>Kingly Power,</hi> is pre<g ref="char:EOLhyphen"/>ferrable to every other <hi>ſpecies</hi> of <hi>D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mination.</hi>
+            </p>
+            <p>In a third, that a <hi>Kings power</hi> is inſeparable from his <hi>Perſon.</hi>
+            </p>
+            <p>In a fourth, the <hi>reaſon</hi> of the former, becauſe a <hi>King</hi> is inveſted with <hi>Power</hi> from <hi>God.</hi>
+            </p>
+            <p>In a fifth, the <hi>uſe</hi> of all, that it is therefore, ſin to op<g ref="char:EOLhyphen"/>poſe the Kingly power; all this hinted to us out of the conjunction of theſe words, O Lord the King.</p>
+            <p>In the ſecond Generall, take we notice of the miſeryes we eſcape, of the bleſſings we obtaine by having a King, the King, the true King, Gods King, the Anointed of the Lord over us, the materiall cauſe of our joy and Thankſ<g ref="char:EOLhyphen"/>giving.</p>
+            <pb n="3" facs="tcp:119204:4"/>
+            <p>And then, <hi>poſita cauſa ſequitur effectus,</hi> the cauſe prece<g ref="char:EOLhyphen"/>ding, the <hi>effect</hi> muſt follow, joy in the ſecond.</p>
+            <p>The King ſhall joy, &amp;c.</p>
+            <p>O Lord the King. I have elſewhere told others, that's the Grammar of the text.</p>
+            <p>
+               <hi>A Jove principium,</hi> ſayes a Heathen; and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a Father; we muſt <hi>begin</hi> and <hi>end</hi> with <hi>God,</hi> the text does both; the Lord is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the end in the <hi>poſition</hi> of the words, and the <hi>begining</hi> in the <hi>conſtruction.</hi>
+            </p>
+            <p>The firſt part is, that the King hath power in all lowly<g ref="char:EOLhyphen"/>neſſe, in that very lowneſſe of the King conferring his with that of <hi>God,</hi> O Lord the King.</p>
+            <p>It's a queſtion which <hi>St. Auſtin</hi> would not determine,
+<note place="margin">
+                  <hi>L.</hi> 12. <hi>De Ci<g ref="char:EOLhyphen"/>vit.</hi> 15.</note> but doubt of, whether God were <hi>Dominus ab aeterno; Ter<g ref="char:EOLhyphen"/>tullian</hi> againſt <hi>Hermogenes affirms,</hi> that God did then begin to be a <hi>Lord,</hi> and to have ſervants when his <hi>creatures be<g ref="char:EOLhyphen"/>gan</hi> to <hi>be,</hi> for ſaith he before the creation tis ſaid, <hi>God</hi> ſaid, and <hi>God</hi> ſaw, and <hi>God</hi> created, nor is he ſtyled <hi>Lord</hi> tho<g ref="char:EOLhyphen"/>roughout that whole firſt <hi>chap. of Geneſis;</hi> but in the <hi>ſecond chap.</hi> after the creation in every verſe almoſt he hath this addition of title, <hi>the Lord God,</hi> which opinion of his, as very probable, the <hi>School</hi> follows, and concludes true.</p>
+            <p>I liſt not doubt with <hi>St. Auſtin,</hi> nor <hi>affirme</hi> with <hi>Tertul<g ref="char:EOLhyphen"/>lian</hi> nor <hi>conclude with the School.</hi> The contrary, to their concluſion may ſafely be held upon this ground, becauſe all creatures before they <hi>had</hi> a being were ſubject to God's command as their Lord; even before they <hi>were,</hi> he <hi>bade</hi> them <hi>be;</hi> he <hi>ſpake,</hi> and it was <hi>done,</hi>
+               <note place="margin">Pſal. 33.9. Rom. 4.17.</note> and he calleth thoſe things which <hi>be not</hi> as though they <hi>were.</hi>
+            </p>
+            <p>To determine the queſtion in one word, God is a Lord from everlaſting, having had power to create from, and before all eternity; God <hi>hath been</hi> a Lord in <hi>time,</hi> in re<g ref="char:EOLhyphen"/>gard of the actuall obedience of his creatures.</p>
+            <p>The King's late caſe aright; he had a juſt power to command us all, even then, when too many revolted from him; even then when he received no other tribute
+<pb n="4" facs="tcp:119204:5"/>but that of prayers; even then when he was a Foreigner amongſt ſubjects none of his, <hi>I have ſaid yee are God's,</hi> even in this alſo, whilſt your Subjects are as it were <hi>unmade;</hi> Gods without them, and Lords with them, &amp; over them; be this the Kings comfort, when he reflects upon his paſt affliction, that God himſelf was once, as well as the King, without Subjects, a <hi>creatureleſs God,</hi> as <hi>God</hi> had then <hi>power</hi> to <hi>make,</hi> ſo the King had then, <hi>even then,</hi> power to Rule.</p>
+            <p>Which Kingly power, (how much ſoever rejected by ſome, and moſt caſt off by them that did affect it moſt) is more deſirable than all other kindes of Governments. 'Tis ſo 1. By inſtinct. 2. By reaſon. 3. By the word of God.
+<note place="margin">
+                  <hi>Orat.</hi> 5. <hi>De Providentia.</hi>
+               </note>
+            </p>
+            <p>By inſtinct firſt. <hi>Theodoret</hi> ſends the unskilled <hi>Common<g ref="char:EOLhyphen"/>wealthsman</hi> to aske better counſell of the Bees, (and ſince very Bruites, the loweſt order of them, <hi>inſectiles,</hi> Solomon's <hi>Ant,</hi> and Theodorets <hi>Bee,</hi> may be his <hi>good Counſellors,</hi> let him for ever ceaſe to quarrell at <hi>men,</hi> at <hi>wiſe men,</hi> as <hi>evill Counſellors,</hi> to the King,) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, theſe ſedulous creatures (ſo ſmall ones that they are <hi>ſcarce creatures</hi>) wiſely abhor the Government <hi>of many,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, They have one Ruler over them: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 'Tis their aim, their delight, (that's the <hi>Conſcience</hi> they have, that's to them inſtead of <hi>Religion</hi> loyally to obey that <hi>one.</hi> Why love they <hi>one,</hi> and loathe many? 'tis (if we credit thoſe who have diligent<g ref="char:EOLhyphen"/>ly obſerved and faithfully reported the nature of that dutifull and immitable Subject) becauſe by obeying the orders that <hi>one iſſues</hi> out to them, they live and thrive, gather honey for themſelves and us; and at his death they firſt honorably interre him, (their hummings are his bels and their wings his <hi>Scutchions,</hi> they ſadly mourne over him and then (for want of a Governour to protect them in their ſtations and to encourage them in the workes of their callings) they allegeantly by themſelves.</p>
+            <p>
+               <hi>Exemplumque hominis quaeque est in immagine parva.</hi>
+            </p>
+            <p>Thus may we flouriſh under a King, who theſe twelve
+<pb n="5" facs="tcp:119204:5"/>yeares at leaſt have dyed without him; he, whilſt he <hi>ſtays,</hi> is the <hi>breath of our nostrils,</hi> when he was <hi>gone thou tookeſt away our breath, O Lord, and we periſhed.</hi>
+            </p>
+            <p>It would be too tedious to ſhow you, out of Authors, ſome footſteps and glimpſes of Monarchy in every creature un<g ref="char:EOLhyphen"/>der the Sun; yea, in the ſun himſelf, which one great light was made to <hi>Rule</hi> the day. <hi>Gen.</hi> 1.16.</p>
+            <p n="2">2. By reaſon next. What the ſolid Hiſtorian hath told <hi>us,</hi>
+               <note place="margin">
+                  <hi>Q. Curt. l.</hi> 10.</note> that Recorders of the accidents of theſe late times wil tell poſterity, <hi>quod Imperium ſub uno ſtare potuiſſet, dum a pluribus ſuſtinetur, ruit,</hi> That Empire which might ſtand upon its own legs, ſupported by <hi>one</hi> Ruler, whileſt <hi>many</hi> pretend to governe it, fals to ruine. To prevent which ruine 'twas well ſaid by another <hi>Heathen</hi> a meer <hi>Rationa<g ref="char:EOLhyphen"/>liſt. <g ref="char:V">Ʋ</g>num omnium votum est ſalus Principis;</hi>
+               <note place="margin">Plin. ad Tra<g ref="char:EOLhyphen"/>jan.</note> all the people have but one wiſh, the ſafeguard of the Prince, becauſe in this one (both wiſh and Prince) they vote all happi<g ref="char:EOLhyphen"/>neſs to themſelves; for, though the Scholar eſpecially, (ſince a good <hi>King</hi> and <hi>Learning</hi> will <hi>go up</hi> and <hi>fall downe together</hi>) yet every other man, in his ſeverall occupation may inſcribe that <hi>Motto</hi> over his <hi>Stall,</hi> his <hi>Counting-houſe,</hi> his <hi>Cottage,</hi> his <hi>Mannor,</hi> and whatever elſe is his.</p>
+            <p>
+               <hi>Et ſpes, &amp; ratio ſtudiorum in Caeſare tantum.</hi>
+            </p>
+            <p>No hopes for any of us to thrive, unleſſe the King of us all does proſper.</p>
+            <p n="3">3. And therefore, laſtly, 'twas the moſt politick ſay<g ref="char:EOLhyphen"/>ing of him in <hi>Scripture,</hi> which he ever <hi>ſaid, whether is it better that threeſcore and ten, or that one</hi> reigne over you? for the diſcretion of which he is put upon record by the Holy Ghoſt. <hi>Judges</hi> 9.2. Have the people but a compe<g ref="char:EOLhyphen"/>tent meaſure of <hi>honeſty,</hi> or, as they have ſelf love enough, but <hi>prudence</hi> enough in that, it is a queſtion moſt eaſy to be anſwered, ſo little need there is of a <hi>head-piece,</hi> and <hi>judge<g ref="char:EOLhyphen"/>ment</hi> to decide it, ſhould that queſtion be askt againe, (and not <hi>ore gladii,</hi> by another mouth than that devouring one of the <hi>ſword,</hi> a <hi>Poets verſe</hi> would be ſoon replyed to a chapters verſe.</p>
+            <pb n="6" facs="tcp:119204:6"/>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>nus homo nobis restituit rem; one</hi> man, the <hi>King, restores</hi> our rights unto us, when <hi>many</hi> would be our <hi>ſpoilers;</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nus cunctando,</hi>
+            </p>
+            <p>One man, the General, more by his skilfull <hi>delay,</hi> than by his cruel <hi>ſword,</hi> does do it, in reſtoring our King unto us, both of which another <hi>many Scabberderds</hi> ſword ſtrove to deprive us of. Which rights yet we can never obtaine by the moſt rightfull King, unleſſe we evince the inſepe<g ref="char:EOLhyphen"/>rability of his <hi>power</hi> from his <hi>perſon;</hi> by both of which <hi>together</hi> he will, by neither of which <hi>alone</hi> he can be ena<g ref="char:EOLhyphen"/>bled to helpe us; the third and moſt conſiderable point to treat of.</p>
+            <p n="3">3. Without this the name of his murthered <hi>Father;</hi> of all his Anceſtors; of <hi>William</hi> the Conqueror; of himſelf, may as beneficially protect us as the <hi>name,</hi> the</p>
+            <p>Magni nominis umbra <hi>of</hi> Charles the ſecond.<note place="margin">Lucan.</note>
+            </p>
+            <p>Either <hi>power</hi> is perpetually in his <hi>Perſon,</hi> or the autho<g ref="char:EOLhyphen"/>rity of a King is devolvable upon ſome other, <hi>one</hi> or <hi>more</hi> perſons; if upon <hi>one,</hi> then there may be <hi>a King and no King</hi> upon the <hi>Throne,</hi> as well as upon the <hi>Stage;</hi> there may be a King upon earth, which, upon the ſame ſpot of earth, hath a King above him, and who would not hiſſe at the man that ſhould ſay ſo? that ſhould, either of theſe ways, change England into a <hi>Theatre,</hi> or, by joyning the other two Kingdomes into a like <hi>mockage,</hi> change all 3 of them into more than an <hi>Amphi-theatri;</hi> if upon <hi>many,</hi> then there may be a Kingdom which is not a <hi>Kingdom,</hi> but the <hi>States;</hi> there may be a reconciliation (though it were once againe preached impoſſible at another <hi>
+                  <g ref="char:V">Ʋ</g>xbridge</hi>) betwixt thoſe two oppoſite members, the,
+<q>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </q>
+            </p>
+            <p>In a <hi>Greek Poet,</hi> and the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>Bellua multo<g ref="char:EOLhyphen"/>rum capitum,</hi> in a <hi>Latine,</hi> which yet I am not ſagacious e<g ref="char:EOLhyphen"/>nough to apprehend how it will quit it ſelf from that e<g ref="char:EOLhyphen"/>qual ſo leciſm, of calling the <hi>States of Holland</hi> one <hi>Monar<g ref="char:EOLhyphen"/>chy,</hi> or the <hi>Republick</hi> of <hi>Venice</hi> another <hi>Kingdom.</hi>
+            </p>
+            <pb n="7" facs="tcp:119204:6"/>
+            <p>Yet as to the lawes of the Land (which I would either wholy decline, or no otherwiſe touch upon than to ſubmit unto them; though, perhaps, as they are founded upon <hi>reaſon,</hi> every <hi>logicall</hi> man may, ſo far be a fundamentall <hi>Lawyer,</hi> as to have leave to ſpeak) if there may be a caſe (which I know not of) where <hi>privy Counſellors,</hi> or <hi>any elſe,</hi> in a King's abſence have the <hi>virtuall</hi> Authority of a King in themſelves, I humbly conceive that virtuall Au<g ref="char:EOLhyphen"/>thority, in ſome unexpected emergencies, is, therefore, <hi>in them;</hi> becauſe, upon ſuch occaſions, were the King <hi>with them,</hi> the law preſumes he would ſay, and <hi>do,</hi> as they <hi>Vote</hi> and <hi>Act;</hi> which very preſumption is taken off (and that legally) and with that, all the <hi>virtuall</hi> Authority, if the King declare his <hi>deſcent.</hi> In a King's minority, when a King is not of <hi>age to ſpeake as a King</hi> (though in his <hi>infan<g ref="char:EOLhyphen"/>cy,</hi> he be <hi>rockt</hi> by, or in his <hi>boyage,</hi> he ſtands by) and, in a King's abſence, when a King is ſo <hi>far distant</hi> that he can<g ref="char:EOLhyphen"/>not communicate his will and pleaſure and commands, in the former caſe a Kingdome <hi>fatally muſt,</hi> in the latter <hi>poſſibly it may be</hi> governed by others.</p>
+            <p>But, as when the nonage of a King is expired, and a King is <hi>legally ripe to ſpeake for himſelf,</hi> the government of others in the <hi>Kings name</hi> does expire with that; ſo the diſt<g ref="char:EOLhyphen"/>ance of a King, which impowers <hi>others</hi> with his <hi>rule,</hi> does <hi>void</hi> the rule of <hi>others,</hi> when a King is no <hi>farther off</hi> by that <hi>diſtance,</hi> than to be enabled by <hi>pen</hi> and <hi>Seale</hi> and <hi>meſſage</hi> to communicate his own ſence and <hi>mind;</hi> the abſence, if it be ſo remote as to impede theſe communications may be compar'd to a <hi>nonage;</hi> if it be ſo neare, that others may ſend <hi>Petitions</hi> and <hi>Counſels</hi> to him, and he replies to them, this may be likened to his entrance upon age; as his <hi>pre<g ref="char:EOLhyphen"/>ſence</hi> with them <hi>having</hi> not been of years.</p>
+            <p>But, this, if it ſeems rather ſpoke like a <hi>Minister</hi> of <hi>State,</hi> than of the <hi>Goſpell,</hi> and may give offence as from one of <hi>my Calling,</hi> at worſt it is but <hi>error amoris,</hi> a zeale to the good of my Country under the rule of her King, and may with any candid breaſts, incurre no other blame than that mild
+<pb n="8" facs="tcp:119204:7"/>reprehenſion of the 2. <hi>Seneca's Peccas honeſta mente,</hi> in the <hi>Tragedian, Erras ſed bono animo,</hi> in the <hi>Philoſopher;</hi> ſo that I may well hope I cannot be ſo obnoxius for my indiſcre<g ref="char:EOLhyphen"/>tion, as lov'd by ſome and cxcus'd by all, for my honour to the King and good will to the people, ſo much hath the Kingdom ſmarted under this falacy, that all my deſire is, the King may have more of honour, and the Kingdome <hi>ſmart no more.</hi>
+            </p>
+            <p>But to proceed like a <hi>Preacher,</hi> by <hi>ſcripture;</hi> and in the <hi>mode</hi> too, by <hi>reaſon</hi> ſuitable with that.</p>
+            <p>Where we often meet with the <hi>King,</hi> and without the <hi>Perſon, God ſave the King;</hi> and <hi>O King live for ever,</hi> yet this is ſo far from a <hi>darke ſaying,</hi> from <hi>opening the mouth in parables</hi> as that they that ſaid <hi>God ſave the King,</hi> did ſo plainely and intelligibly meane <hi>Joaſh the ſon of Ahaziah,</hi> 2 <hi>King.</hi> 11.21. <hi>The Kings ſon. v.</hi> 12. As that all thoſe that heard them ſay it, underſtood that they meant the <hi>ſon of Ahaziah, the King's ſon;</hi> nor did the Queen any more mean her husband <hi>Belſhazar. Dan.</hi> 5.10. Then the <hi>astonied Lords</hi> knew that ſhe meant him <hi>v.</hi> 9.</p>
+            <p>And yet in both theſe caſes, leſt the miſtake of man, for want of of the <hi>name</hi> of the <hi>perſon,</hi> might miſ-judge the King to be torn from the King, that the <hi>Authority</hi> was one thing, and the <hi>Perſon</hi> another, <hi>Joaſh</hi> one thing, and <hi>Belſhazar</hi> one thing, and the <hi>King</hi> another thing from them both, how wary is the Holy Ghoſt in adjoining the <hi>Perſon</hi> to the <hi>Authority,</hi> in both theſe prayers, for a King <hi>loved by God,</hi> and for a <hi>Heathen King too!</hi> in the be<g ref="char:EOLhyphen"/>gening of a Kings reigne, <hi>God ſave King Solomon.</hi> 1 <hi>King.</hi> 1.34. And in the continuance of a Kings reigne too! King <hi>Darius live for ever. Dan.</hi> 6.6.</p>
+            <p>And what ſhall I ſay? or what ſhall I ſay firſt? not on<g ref="char:EOLhyphen"/>ly his own <hi>Heathen Lords,</hi> but the <hi>Prophet of God, Daniel</hi> (that he might not be miſtaken to have took <hi>others</hi> for <hi>the King</hi>) prays to his very face the ſame prayer. <hi>v.</hi> 21. not on<g ref="char:EOLhyphen"/>ly the <hi>man of God,</hi> but the very <hi>Heathen</hi> pray for their King, to inſtruct us Chriſtians after them, that if we would
+<pb n="9" facs="tcp:119204:7"/>be godly, if we would not be <hi>Infidels</hi> and <hi>worſe,</hi> we muſt pray for our King, and (what he, who <hi>prayeth not with fai<g ref="char:EOLhyphen"/>ned lips,</hi> will do with a zealous heart) do all the good ſervice and honour we can do for him, will God believe we pray in earneſt for the King, when our ſelves are back<g ref="char:EOLhyphen"/>ward to do that which we pray God to do, to <hi>ſave</hi> him from <hi>dangers,</hi> to ſupport him with a <hi>Princely livelyhood.</hi>
+            </p>
+            <p>But to go on. <hi>Jehu</hi> is <hi>King</hi> in one place,
+<note place="margin">2 Kings 9.13. Dan. 4.31.</note> and O <hi>King Nebuchadnezar</hi> in another; and <hi>King David</hi> in many more: it were endleſſe to ſumme up the <hi>Perſon and Authority</hi> joyned together by <hi>God;</hi> and what <hi>God hath joyned let not man put aſunder,</hi> and <hi>King</hi> is where<g ref="char:EOLhyphen"/>ever <hi>David</hi> is; and when <hi>David</hi> is dead, the <hi>King</hi> is wherever <hi>Solomon</hi> is; the Kingly power alwayes in the King's <hi>Perſon.</hi>
+            </p>
+            <p>To ſignify which inſeparability St Paul promiſcuouſly uſeth theſe words, the <hi>Power</hi> and the <hi>Rulers. Rom</hi> 13.1. intending the Authority ſhould be underſtood when the <hi>Perſon</hi> is named, and the <hi>man</hi> when his <hi>Power;</hi> the <hi>King</hi> never diſmantled of his <hi>Negality,</hi> even when all his other Robes are laid off, and himſelf laid down to ſleep; yet e<g ref="char:EOLhyphen"/>ven then his <hi>Perſonall Authority ſlumbereth not,</hi> as neither doth their <hi>damnation</hi> (in the Judgement of St. <hi>Paul,</hi> in the ſame chap. and in the Judgment of God upon them) who <hi>reſist</hi> it; wilt thou then not be afraid of the <hi>Power?</hi>
+               <note place="margin">Verſ 2.</note> do that which is good, and then ſhalt thou have praiſe of the ſame v. 3. For he (the <hi>ſame,</hi> the <hi>Power</hi>) is the Miniſter of God <hi>v.</hi> 4. The <hi>Power</hi> of the King is, in Scripture-ſtile the very ſame with the King, his <hi>Authority</hi> and his <hi>Perſon</hi> but <hi>one, one and the ſame,</hi> ſo little can his authority be <hi>vir<g ref="char:EOLhyphen"/>tually</hi> (or any otherwiſe then <hi>viciouſly</hi>) be <hi>evangelically</hi> pretended againſt the commands of his <hi>Perſon.</hi> Of all which I ſay not one word (that God, in whoſe <hi>Rule and Governance are the hearts of Kings,</hi> and who is the <hi>ſearcher</hi> of all <hi>hearts</hi> is my witneſſe) with any the moſt ſecret de<g ref="char:EOLhyphen"/>ſigne to exaſperate my King (in whom, as in my God, I moſt of all love the Prerogative of <hi>mercy,</hi> the Kinglyneſſe
+<pb n="10" facs="tcp:119204:8"/>and eminency of that <hi>over</hi> and above <hi>all his other workes</hi> and Titles) againſt any of my deare Countreymen, but to undeceive all of theſe, that (in the words of our Royall Sovereigne) <hi>no ſuch miſtakes and miſunderſtandings</hi> (miſ<g ref="char:EOLhyphen"/>underſtandings even of Scripture it ſelf) <hi>may, at any time hereafter produce and contribute to ſuch</hi> miſerable <hi>inconveni<g ref="char:EOLhyphen"/>encies which were not intended</hi> heretofore, that there may not any more be <hi>pilaminantia pilis,</hi> the very ſame <hi>pila</hi> to the very ſame <hi>pilis,</hi> my purpoſe of inoffenſiveneſſe and charity makes me the leſſe to dread the preparing of any of them to a <hi>litigious way</hi> againſt me, to whom <hi>I ſpeake of peace,</hi> and <hi>for</hi> peace upon whom.</p>
+            <p>But I muſt not forget to attempt Scriptural <hi>reaſons</hi> too, for the <hi>individuality</hi> of the <hi>Rule</hi> from the <hi>Ruler,</hi> of the <hi>re<g ref="char:EOLhyphen"/>gall Power</hi> from the <hi>King.</hi>
+            </p>
+            <p>What elſe is there that <hi>eſſentiates</hi> a King into the very being of a King, but <hi>Power</hi> to protect innocence, to c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſ<g ref="char:EOLhyphen"/>tiſe offences? without which power he is no longer a <hi>King,</hi> but reduced into a <hi>private Perſon,</hi> ſo that of neceſſity a King muſt have this power whilſt he is a King, that is, ſo long as he lives.</p>
+            <p>Beſides this. As in hereditary Kingdoms, nothing can poſſibly pretend to a regall Power without <hi>a King,</hi> unleſſe (<hi>perhaps</hi> with ſome <hi>Calviniſticall,</hi> ſome <hi>fortaſſe-colour.</hi>) the <hi>Inferior Magistrates</hi> or (moſt certainely, with no <hi>colour</hi> at all, unleſſe a bloody one) the <hi>longeſt</hi> and <hi>ſharpeſt Sword,</hi> to void that beſt <hi>apparence</hi> of Title (ſo far as it belongs to a Clergy-cognizance, by the word of God. And miſerable were it for us,
+<note place="margin">1 Cor. 9.16.</note> if as there is a woe upon us, if we do <hi>not Preach the Goſpell,</hi> a woe from God, ſo there ſhall be a woe from man upon us, if we do preach this part of the Goſ<g ref="char:EOLhyphen"/>pel; if, when God ſhall ſay to any of us Church-men, <hi>when I ſay to the wicked, thou ſhalt ſurely dye,</hi> (as he hath ſaid un<g ref="char:EOLhyphen"/>to us. <hi>Rom.</hi> 13. The wicked <hi>reſiſter</hi> ſhall dye and dye again, dye the ſecond death, dye and be <hi>damned;</hi> 'tis a fearefull ſaying, but 'tis God's own) <hi>and thou giveſt him not war<g ref="char:EOLhyphen"/>ning to ſave his life, he ſhall dye in his iniquity, but his blood
+<pb n="11" facs="tcp:119204:8"/>will I require at thy hands. Ezek.</hi> 3.18. If God hath not enough furniſhr <hi>us</hi> in his word to know what that wickedneſſe is which kils a wicked man, what that <hi>reſiſtance</hi> is which damnes a reſiſter, ſince, in his word he commands us to <hi>warne</hi> them of it, and threatens to require their blood of us, if notwithſtanding all this, <hi>man</hi> ſhall forbid us to <hi>warn</hi> him, and threaten to require our own blood at our hands at our <hi>necks,</hi> at leaſt the blood of our <hi>livelyhood,</hi> for having warned him, I muſt ſay it againe, we <hi>churchmen are in this life, of all men moſt miſerable</hi>) I ſay to void that faireſt co<g ref="char:EOLhyphen"/>lour, that beſt pretence, that likeſt unlike face to the Kings, I would argue thus, I would aſſigne the greateſt honour imaginable to the riſe and origination of the <hi>juſt Authority</hi> of thoſe inferior Magiſtrates; I would own their power, tranſmitted to them, not only from their <hi>King,</hi> but from his <hi>King</hi> too, I would obey, and preach obedi<g ref="char:EOLhyphen"/>ence to their lawfull commands, not only in the <hi>King's name,</hi> but in <hi>God's name</hi> too; I would give them Scrip<g ref="char:EOLhyphen"/>ture for all I ſay, that of the Holy Ghoſt by <hi>S. Peter</hi> 1.2.13. <hi>ſubmit your ſelves to every Ordinance of man,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, for the Lords ſake, I would preſume every Chriſtian ſub<g ref="char:EOLhyphen"/>ordinate Governour would put up his claime ſo high, and wave any inferior priviledge which <hi>mans law</hi> can aſcribe unto him in compare with ſo Heavenly a title, ſince by the other his authority will onely reach to thoſe two things which came out of the earth, body and eſtate, thin duſt, and thick clay, but the <hi>Soule</hi> will eſcape all his Juriſdict<g ref="char:EOLhyphen"/>tion; by this, he confines the <hi>minde,</hi> he ties, he bindes up, he obliges the very <hi>Conſcience,</hi> and is not this a much no<g ref="char:EOLhyphen"/>bler Domination over <hi>Immortals,</hi> than that which (like the brutiſh ſoveraignity of the <hi>Lion</hi> over <hi>beaſtes,</hi> and the <hi>Eagle</hi> over <hi>birds,</hi> and the <hi>Dolphin</hi> over <hi>fiſhes</hi>) is only con<g ref="char:EOLhyphen"/>verſant about a rheumatick body, a heape crowded to<g ref="char:EOLhyphen"/>gether of <hi>skin</hi> and <hi>fleſh and blood and bones?</hi> When he hath thus viewed how glorious his ſway is, and taken pleaſure in the Heavenlyneſſe of his Title, I would next, requeſt him to ſearch <hi>through,</hi> to the bottome of that verſe, and
+<pb n="12" facs="tcp:119204:9"/>to the firſt halfe of the next, ſubmit your ſelves to every Ordinance of man for the Lord's ſake; whether it be to <hi>King</hi> as <hi>Supreame,</hi> or unto Governours as unto them that are <hi>ſent by him.</hi> I would now aske, if it can be preſumed in reaſon, that any one would ſend and Authorize ano<g ref="char:EOLhyphen"/>ther to do <hi>prejudice</hi> and <hi>unkindeneſſe to himſelf?</hi> I would crave leave to aske on, whether any Governour is, in the <hi>Scripture ſenſe,</hi> preſumed to be ſent by the <hi>King</hi> to ſuch <hi>a purpoſe,</hi> when, the <hi>Governour</hi> indeed <hi>ſaies I,</hi> and the <hi>King himſelfe</hi> ſaies <hi>no?</hi> O let us not, <hi>nodum in ſcirpo, enigmatize</hi> the <hi>ſimplicity</hi> of the Goſpel, make <hi>plaine and evident</hi> Scrip<g ref="char:EOLhyphen"/>ture <hi>difficult</hi> to be underſtood. I would laſtly, beſeech him not to chang that <hi>ſafeſt</hi> Title to his Authority which <hi>God</hi> gives for a <hi>Humane</hi> one, becauſe God's Title places him <hi>beneath a King,</hi> and conſiders him in that <hi>Formality,</hi> as below him; nor to exceed that Title by a humane one; nor to be angry at theſe inſtructions, drawne out of Ho<g ref="char:EOLhyphen"/>ly writ, and ſet before him, out of my tender regard to the undamnation, to the ſafety of his Soule, that he would not indanger my body, becauſe I take care (what lies in my ſlender skill and large affection) not to hazard his Soule, <hi>liberare animam, liherare animas,</hi> to free both his Soul and mine; conſcionably to free my own ſoule, and both Religiouſly and <hi>Reſpectfully</hi> his; that he, and all of them, would be (what they are) in the higheſt of their <hi>delegated</hi> Authority, highly loyall to that <hi>Supremacy</hi> which is higher than they: that they would do (what they have promiſed) increaſe <hi>the honour and greatneſs</hi> of that Supremacy, moved thereunto, becauſe (which is the next point) the King is inveſted with that Supremacy by God.</p>
+            <p>The King's Power is from God. All power is ſo, <hi>Rom.</hi> 13.1, 4. (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) all lawfull Power, not all, not any inſtruſion into the <hi>chaire of State, <g ref="char:V">Ʋ</g>ſurpation</hi> of the <hi>Princely Throne;</hi> he that layes <hi>violent hands</hi> upon a Scep<g ref="char:EOLhyphen"/>ter, that with a <hi>ſtiffe necke thruſts</hi> his proud head undera <hi>Diadem,</hi> that girds his <hi>own ſide</hi> with his <hi>Royall maſter's
+<pb n="13" facs="tcp:119204:9"/>Sword,</hi> though he hath <hi>much ſtrength</hi> he hath <hi>no power;</hi> or if a <hi>power of force,</hi> none at all of <hi>Authority</hi>) and if <hi>all lawfull,</hi> though inferiour Power is from God, the <hi>Regall</hi> much more; <hi>inferiour Power</hi> is ſubordinate to the King's, it comes from God and from man; <hi>Kingly</hi> Power is de<g ref="char:EOLhyphen"/>rived from <hi>God onely;</hi> how will it miſ-beſeem <hi>any people's</hi> mouth (when they have the largeſt commiſſion in their hand, and the <hi>Richeſt Purple</hi> upon their backe, when their Authority is as high and as full as they are capable to hold it, that if it be <hi>Higher it will ſtretch</hi> and <hi>disjoint</hi> them, if it be <hi>fuller</hi> it will ſwell and burſt them) to dare to ſay, by us Kings reigne, to unking the King even whilſt they King him, and to Deify themſelves whilſt they King and unking the King, O 'tis too <hi>Heavenly a ſtyle</hi> to be ever ſpoke by <hi>man,</hi> ſo that he muſt let that ſaying alone for ever.</p>
+            <p>Therefore hath the King his Authority from God, from God <hi>only,</hi> and not at all from man, becauſe whoever <hi>confers</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uthority muſt be <hi>Superiour</hi> to him whom he thus <hi>Dignifies:</hi> the <hi>King</hi> as <hi>Supreame</hi> over all (the <hi>collective all</hi> too) may indulge a lawfull ſubordinate power to whom he pleaſe. None of the <hi>People</hi> can do this backe to the <hi>King,</hi> becauſe the <hi>King is Supreame,</hi> and to be <hi>Supreame,</hi> is to have none <hi>above</hi> him, none <hi>equall</hi> to him, none upon <hi>earth,</hi> none but that <hi>God</hi> which gave him all the Autho<g ref="char:EOLhyphen"/>rity he hath: that the <hi>King</hi> is <hi>Supreame</hi> (what ever the <hi>Sword</hi> of man writes in letters of <hi>blood</hi> againſt it) take <hi>his</hi> word for it who <hi>made him ſo,</hi> even Gods 1 <hi>Pet.</hi> 2.13. whatever you can name, the biggeſt Authority in the land beſides, ſtill the <hi>King</hi> is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Above it,</hi> be it what it will, unleſſe there can be ſuch an Authority over <hi>Kings</hi> found out, which is an Authority over <hi>Scripture</hi> too, and may have leave to blot out the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in <hi>St. Peter,</hi> to pull that <hi>Jewell</hi> out of the Kings <hi>Crowne</hi> which ſets up the King <hi>above</hi> all, the people can neither <hi>make</hi> nor <hi>unmake</hi> a King; neither <hi>impoſe</hi> upon him whilſt he ſits on the <hi>Throne,</hi> nor depoſe him from off it; both theſe are <hi>God's</hi>
+               <pb n="14" facs="tcp:119204:10"/>Prerogative; 'tis he that <hi>taketh down one, and ſetteth up another:</hi> 'tis he, and not the <hi>People,</hi> which ſets up a King.</p>
+            <p>From theſe and the like frequent claims of God, of his <hi>ſingular</hi> Sovereignty over Princes, that their <hi>having of Dominions</hi> is as much his <hi>Gift</hi> as their being <hi>Men,</hi> their having <hi>fleſh</hi> and <hi>blood</hi> is his <hi>workmanſhip;</hi> from theſe it is that the <hi>Greek</hi> and <hi>Latine</hi> Fathers derive from <hi>one</hi> Foun<g ref="char:EOLhyphen"/>tain the Princes <hi>Power</hi> and <hi>Manhood.</hi>
+            </p>
+            <p>Take that famous paſſage in <hi>Tertullian</hi> knowne by all, and lately cited by an Honorable becauſe Loyal Member, <hi>Inde Imperator eſt, unde eſt Homo:</hi> and that of <hi>Theodoret,</hi> (which deſerves to be equally famous, but that it was writ 200 years after) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 'tis the ſame rich ſence in the like ſcarcity of words;
+<note place="margin">
+                  <hi>De Provid. Orat.</hi> 1.</note> that God, which gave him his <hi>being,</hi> made a <hi>Man</hi> of him at his <hi>birth,</hi> gave him his <hi>Crown,</hi> made a <hi>King</hi> of him at the <hi>laſt King</hi>'s <hi>death;</hi> and ſo much power does God exert in making <hi>Kings</hi> the <hi>Rulers of the Earth,</hi> as he did in creating a <hi>World</hi> for <hi>Man; God ſpake,</hi> and it came to paſſe, the World was made, <hi>Gen.</hi> 1. <hi>Dixi,</hi> I have <hi>ſaid</hi> it, and ye are Gods, <hi>Pſal.</hi> 82.</p>
+            <p>When <hi>one</hi> Rules whom God judges an <hi>unfit King;</hi> when <hi>many take</hi> this power to themſelves; or, when the King whom God hath choſe is remov'd out of ſight, gone a far off; in the two former caſes, <hi>God</hi> will <hi>prepare</hi> him a King; in the laſt, God will <hi>finde</hi> him out a King, <hi>fetch him home,</hi> and ſet him upon the Throne.</p>
+            <p>See all theſe ſhaddow'd out to us by Scripture!</p>
+            <p>For the firſt, when the <hi>Tyrant Saul</hi> had incur'd the diſpleaſure of the <hi>univerſal King,</hi> the Lord ſaid unto <hi>Sa<g ref="char:EOLhyphen"/>muel, I have provided me a King,</hi> 1 <hi>Sam.</hi> 16.1. <hi>Eliab</hi> was ſet before him, <hi>verſ.</hi> 6. but the Lord refuſed him, <hi>verſ.</hi> 7. <hi>Abinadab</hi> next, neither hath the Lord choſen this, <hi>ver.</hi> 8. <hi>Shammah</hi> after him; neither hath the Lord choſen this, <hi>verſ.</hi> 9. What if I call theſe three by three other names?
+<pb n="15" facs="tcp:119204:10"/>the rejected <hi>Oliver,</hi> the pulled downe <hi>Richard,</hi> and the diaſppointed <hi>John?</hi>
+            </p>
+            <p>For the ſecond, a kind of <hi>Committee,</hi> a <hi>Juncto</hi> of them, at leaſt, <hi>ſeven together,</hi> are ſet before <hi>Samuel;</hi> but the Lord hath not choſen <hi>theſe, verſ.</hi> 10. What if I ſhould reſemble on, and tell you, that as the <hi>Juncto</hi> took upon them to Govern the Kingdome, ſo about <hi>ſeven of them</hi> undertook ('twas underhand-dealing all of it) to Rule the <hi>Juncto?</hi>
+            </p>
+            <p>
+               <hi>David</hi> was not there when there were ſo many <hi>Candi<g ref="char:EOLhyphen"/>dates</hi> for the <hi>Crown;</hi> he was toiling abroad, as miſ<g ref="char:EOLhyphen"/>deem'd fitter for <hi>drudgery</hi> than the <hi>Throne:</hi> and there<g ref="char:EOLhyphen"/>fore for the laſt.</p>
+            <p>Send and <hi>fetch him home,</hi> ſaies <hi>Samuel,</hi> for we will not <hi>ſit down</hi> (no <hi>eaſe,</hi> no <hi>reſt</hi> to be hop'd for by us) <hi>till he come hither, verſ.</hi> 11. <hi>David</hi> is <hi>fetch'd home;</hi> and the Lord ſaid, <hi>Ariſe (ſtand up</hi> before the King) <hi>annoint him, for this is he, verſ.</hi> 12. <hi>Eſt pulchrum monſtrari, à Numine Di<g ref="char:EOLhyphen"/>cior hic eſt:</hi> 'tis the <hi>word</hi> of <hi>God</hi> (the <hi>Lord ſaid</hi>) and 'tis the <hi>deed</hi> of the <hi>Lord</hi> to <hi>make a King;</hi> the <hi>Lord</hi> ſaid <hi>an<g ref="char:EOLhyphen"/>noint;</hi> a <hi>King</hi> whilſt he lives will wear that Name <hi>The Lords Annointed.</hi> God <hi>ſeeks</hi> him before he is brought home; I have <hi>found David</hi> my ſervant, <hi>Pſal.</hi> 89.20. God owns him when he is come home, <hi>this is he;</hi> and after he is eſtabliſh'd, <hi>'twas I that took thee from following the Ewes</hi> (from being follow'd by <hi>Wolves</hi>) to be <hi>Ruler</hi> over <hi>my People,</hi> 2 <hi>Sam.</hi> 7.8. <hi>My People,</hi> 'twere well to mark that, God <hi>provides</hi> us a <hi>King;</hi> when we <hi>obey him</hi> God <hi>owns us;</hi> when we <hi>revolt</hi> from the <hi>King,</hi> we do ſo from <hi>God</hi> too, we <hi>cancel</hi> our Relation to <hi>Heaven,</hi> we make a <hi>forfeiture</hi> of being the <hi>People of God;</hi> 'tis as if God ſhould ſay, whilſt they are <hi>mine</hi> they will be <hi>true to thee:</hi> get thee to thy Throne, and take this comfort with thee, they will not be <hi>Traytors</hi> to their <hi>King</hi> til they <hi>rebel</hi> againſt their <hi>God;</hi> thy God will ſuffer with thee; nor canſt thou be rejected by them, till they have firſt <hi>caſt me off;</hi> whoever elſe of the willing unfaſcinated people ſought thee, 'twas I that
+<pb n="16" facs="tcp:119204:11"/>
+               <hi>found thee;</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is the voice of <hi>Joy;</hi> if we re<g ref="char:EOLhyphen"/>joice now, God himſelf is our pattern.</p>
+            <p>We ſee from whom the King hath his power, from <hi>GOD;</hi> ſee we next the <hi>Deviliſh</hi> ſin of them that oppoſe it, the Curſe of <hi>God</hi> upon them that ſet up another, a falſe Authority againſt it.</p>
+            <p n="5">5. The ſin firſt. The more <hi>wicked</hi> every man is, could the <hi>Heathen</hi> ſay, <hi>Eo difficilius Rectorem patitur,</hi> ſo much the apter to <hi>rebel;</hi> and this Rebellion is the height of <hi>wickedneſſe,</hi> the <hi>exceeding ſinfulneſſe of ſin;</hi> 'tis not an <hi>Enemy</hi> alone, but a <hi>Son of Wickedneſſe</hi> that <hi>afflicts a King;</hi> he is call'd by both names in the ſame verſe, and by the <hi>wicked</hi> name, as the <hi>worſt</hi> name, laſt, <hi>Pſal.</hi> 89.22. He is the <hi>Son</hi> of wickedneſſe, of all manner of wickedneſſe, of <hi>ſin</hi> in the <hi>Arabick,</hi> which includes all; of <hi>ungodlineſſe</hi> in the <hi>Chaldee,</hi> of <hi>unrigh<g ref="char:EOLhyphen"/>teouſneſſe</hi> in the <hi>Hebrew,</hi> which ſpecifies all: Let ſuch a <hi>Complex ſin,</hi> ſuch a <hi>univerſal guilt</hi> affright the whole Land out of any thoughts of <hi>Treaſon,</hi> but thoſe onely which abhor it.</p>
+            <p>On the other ſide, 'tis not onely a <hi>Well-willer,</hi> a <hi>Friend,</hi> but a <hi>Holy</hi> man, a <hi>Righteous</hi> perſon, which relieves, ſuccours, obeyes an oppreſſed injur'd King; but his Enemy, that Oppoſer of Royalty, does not onely perpetrate all the fore-nam'd <hi>Accumulative wic<g ref="char:EOLhyphen"/>kedneſſe,</hi> but is ſtil'd by the Holy Ghoſt the very <hi>Son</hi> of it, as being ſo egregiouſly ſinfull, <hi>
+                  <g ref="char:V">Ʋ</g>t vel ex ipſa Iniquitate, vel ad eam natus videatur,</hi> that <hi>himſelfe</hi> may ſay to Iniquity, <hi>Thou art my Father,</hi> and that o<g ref="char:EOLhyphen"/>thers may ſay of him, <hi>He was born to ſin:</hi> If the being <hi>unholy</hi> will not correct a Rebel into a <hi>Subject,</hi> try we if the being <hi>unſafe</hi> will not do it.</p>
+            <p>
+               <hi>Reſisting</hi> Traytors <hi>ſhall receive damnation, Rom.</hi> 13.2. Fly <hi>Rebellion</hi> therefore, as thou wouldeſt eſcape <hi>Hell:</hi> Alas! what is <hi>hanging</hi> and <hi>drawing</hi> and <hi>quartering!</hi> a <hi>great torment</hi> for a <hi>few hours;</hi> and yet a Torment
+<pb n="17" facs="tcp:119204:11"/>onely upon the <hi>Body,</hi> communicated no further than to the <hi>ſenſitive</hi> faculty of the <hi>Soul,</hi> a laſting <hi>ſhame</hi> too to all poſteritie: But the <hi>dead</hi> man will not <hi>heare</hi> what the <hi>ſurviving talke of him:</hi> Such poor ſhifts as theſe do ſurpriz'd obſtinate Traytors make uſe of to evade the <hi>diſgrace,</hi> to aſſwage the <hi>pain,</hi> and to collude with both.</p>
+            <p>But, indeed, if thou wouldſt not be tortured and diſgrac'd <hi>for ever,</hi> and deſparately ſenſible of it all the while; if thou wouldeſt not be plung'd into <hi>Iſaiah's everlasting burnings;</hi> if thou wouldſt not burne in an <hi>immaterial fire,</hi> and a <hi>more ſcorching brimſtone</hi> than thou yet ever ſaweſt; ſuch a ſubtle and piercing fire, ſuch a diving and ſoking brimſtone as will wrap themſelves round about thy <hi>immaterial Soule,</hi> and penetrate quite through the moſt reſerved and <hi>ſpirituall</hi> faculty of it, and ſet the Soule, and all the powers of it, on fire for ever; a fire ſo hot, as that our very <hi>Bon-fires,</hi> nay, even that which will one day ſet the whole World on fire are <hi>cold</hi> to it, a fire ſo <hi>unquenchable,</hi> as that ten thouſand <hi>Seas</hi> will never be able to put it out; nay, will be both <hi>Fuel</hi> and <hi>Bellows</hi> to <hi>kindle it the more;</hi> a fire in which thou ſhalt for ever <hi>weep,</hi> becauſe of the in<g ref="char:EOLhyphen"/>ſufferable <hi>ſmart</hi> of it, and every <hi>tear</hi> of thine ſhall be a tear of <hi>Oyle</hi> to <hi>increaſe that fire:</hi> If thou wouldſt eſcape all theſe intolerable, and many more unſpeakable Plagues, learne this ſhort Leſſon (ſo ſhort and ſweet, that it may be quickly learn'd, and eaſily ſaid and done) <hi>Be true to thy Prince;</hi> elſe, without deep Re<g ref="char:EOLhyphen"/>pentance, all this damuation thou <hi>ſhalt</hi> receive.</p>
+            <p>I dare not treſpaſſe upon more of your patience to at<g ref="char:EOLhyphen"/>tempt one word upon the ſecond General.</p>
+            <p>Obſerve we our Duties in the firſt General; be we o<g ref="char:EOLhyphen"/>bedient to God in our Loyaltie to the King, that loyal obedience will be the beſt ſacrifice of Praiſe, the moſt acceptable Thankſgiving to God, the occaſion of the greateſt joy to man immaginable.</p>
+            <pb n="18" facs="tcp:119204:12"/>
+            <p>To which <hi>GOD</hi> let every <hi>Man</hi> joyn with me in aſcri<g ref="char:EOLhyphen"/>bing all Kingdome, (even this alſo) all Power and Glory, all Praiſe and Thanſgivings for the <hi>KING</hi> and <hi>KINGDOME</hi> and for all other his bleſſings, for ever and ever. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:119204:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
